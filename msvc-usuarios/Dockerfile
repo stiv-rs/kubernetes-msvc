@@ -18,7 +18,7 @@ FROM openjdk:17-jdk-alpine
 
 WORKDIR /app
 
-RUN mkdir ./logs #copiar los logs a una carpeta en la maquina
+#RUN mkdir ./logs #copiar los logs a una carpeta en la maquina
 
 COPY --from=builder /app/msvc-usuarios/target/msvc-usuarios-0.0.1-SNAPSHOT.jar .
 EXPOSE 8001
