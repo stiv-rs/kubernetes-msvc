@@ -28,9 +28,10 @@ services:
       - spring
   msvc-usuarios:
     container_name: msvc-usuarios
-    build:
-      context: ./
-      dockerfile: ./msvc-usuarios/Dockerfile
+    image: srodriguezs34/usuarios:latest
+#    build:
+#      context: ./
+#      dockerfile: ./msvc-usuarios/Dockerfile
     ports:
       - "8001:8001"
     networks:
@@ -40,9 +41,10 @@ services:
     restart: always
   msvc-cursos:
     container_name: msvc-cursos
-    build:
-      context: ./
-      dockerfile: ./msvc-cursos/Dockerfile
+    image: srodriguezs34/cursos:latest
+#    build:
+#      context: ./
+#      dockerfile: ./msvc-cursos/Dockerfile
     ports:
       - "8002:8002"
     networks:
