@@ -39,3 +39,7 @@ H
 msvc-usuarios/Dockerfile,d\e\de40dde59f25d8bcce2561fd6e1df3af43f1c2ba
 €
 Pmsvc-usuarios/src/main/java/com/stiv/msvc/usuarios/client/ICursoClienteRest.java,d\1\d154c5d3e03c4ace1dc413b007aaf6796fcfa4be
+F
+msvc-cursos/Dockerfile,4\b\4bf2c313456efff4643e285fda6742f8cebeb3c6
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
