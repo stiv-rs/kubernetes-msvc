@@ -43,3 +43,5 @@ F
 msvc-cursos/Dockerfile,4\b\4bf2c313456efff4643e285fda6742f8cebeb3c6
 B
 docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
+E
+deployment-mysql.yaml,3\7\372dbac7ab71ec3a6c5cf1cf0f9282bab28b7482
