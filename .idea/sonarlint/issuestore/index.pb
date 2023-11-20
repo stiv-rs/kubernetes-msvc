@@ -45,3 +45,17 @@ B
 docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
 E
 deployment-mysql.yaml,3\7\372dbac7ab71ec3a6c5cf1cf0f9282bab28b7482
+>
+svc-mysql.yaml,9\b\9b0db2ab34a3a5957926da25c209c47ea9b9e595
+A
+svc-postgres.yaml,f\c\fccbc189cc06dc002b6b32a9abeef88414116d27
+H
+deployment-usuarios.yaml,d\a\dadd02310aba87dea49f12d5e39dfc4a704f58ba
+H
+deployment-postgres.yaml,4\e\4e83ac1b137ac7de030f1d0e5ebf80c3039449e8
+A
+svc-usuarios.yaml,1\4\1406f88ea6a786ace84480f0bb2087945c3c3a44
+?
+svc-cursos.yaml,2\d\2dd245599d1e3ab247d29a375a9c6edea95e3f6a
+F
+deployment-cursos.yaml,e\0\e050b4df97b013dff2d728afa917fe70ec744a90

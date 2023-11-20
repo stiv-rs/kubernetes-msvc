@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: msvc-cursos
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: msvc-cursos
+  template:
+    metadata:
+      labels:
+        app: msvc-cursos
+    spec:
+      containers:
+        - image: srodriguezs34/cursos:latest
+          name: cursos
+          ports:
+            - containerPort: 8002
+          env:
+            - name: DB_DATABASE
+              value: msvc_cursos
+            - name: DB_USERNAME
+              value: postgres
+            - name: DB_PASSWORD
+              value: sasa
