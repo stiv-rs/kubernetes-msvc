@@ -24,9 +24,8 @@ spec:
               value: msvc_cursos
           volumeMounts:
             - name: data-postgres
-              mountPath: /var/lib/postgres/data
+              mountPath: /var/lib/postgresql/data
       volumes:
         - name: data-postgres
-          hostPath:
-            path: /var/lib/postgres/data
-            type: DirectoryOrCreate
+          persistentVolumeClaim:
+            claimName: postgres-pvc
