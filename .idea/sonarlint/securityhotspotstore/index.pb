@@ -67,3 +67,9 @@ A
 postgres-pvc.yaml,c\1\c1e75c04b305a464397da3e61599fec5dc19b49e
 @
 postgres-pv.yaml,b\b\bb6cc0b29a778f52d671b2b2154c38b890f5a407
+;
+secret.yaml,7\5\7559e0bc0e0b65a5455618cb9db332ae8d50fb8e
+>
+configmap.yaml,b\2\b2bacf03569f6623c7d96bbdbf357dcb84c95e99
+C
+msvc-cursos/pom.xml,c\9\c992d90804b37b1ae4d2f0e63baab9da8288400a
