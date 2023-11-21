@@ -59,3 +59,11 @@ F
 deployment-cursos.yaml,e\0\e050b4df97b013dff2d728afa917fe70ec744a90
 ?
 svc-cursos.yaml,2\d\2dd245599d1e3ab247d29a375a9c6edea95e3f6a
+=
+mysql-pv.yaml,a\a\aa1bcd0cb2c7272d0047e2b593ffd235118bd03e
+>
+mysql-pvc.yaml,4\d\4dfaf04f2f7d7c897f94710969b6d83b89f1177d
+A
+postgres-pvc.yaml,c\1\c1e75c04b305a464397da3e61599fec5dc19b49e
+@
+postgres-pv.yaml,b\b\bb6cc0b29a778f52d671b2b2154c38b890f5a407
