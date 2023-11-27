@@ -83,3 +83,9 @@ G
 msvc-gateway/Dockerfile,7\2\729b9d5fe748d3e8772bfe7c3fe003d6cc49b32f
 <
 gateway.yaml,2\6\26e2c6634a8391d07db0d6ee32c38ebe0d95d04b
+A
+msvc-auth/pom.xml,4\d\4d6853ba02dd0ff16bbf80c6f16332667aef59b3
+
+Omsvc-auth/src/main/java/com/stiv/springcloud/msvc/auth/MsvcAuthApplication.java,b\5\b50c37c83fbe1d375f1e7d343d0cf26fa0b8a959
+z
+Jmsvc-auth/src/main/java/com/stiv/springcloud/msvc/auth/SecurityConfig.java,1\a\1ac3c7471bc3db81b7d3b7fb2ecb6e738ee9ea18
