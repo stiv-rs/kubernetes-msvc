@@ -73,3 +73,13 @@ A
 configmap.yaml,b\2\b2bacf03569f6623c7d96bbdbf357dcb84c95e99
 C
 msvc-cursos/pom.xml,c\9\c992d90804b37b1ae4d2f0e63baab9da8288400a
+D
+msvc-gateway/pom.xml,1\2\1252d205d77cac907958911ed14179caca9f6900
+E
+msvc-gateway/mvnw.cmd,0\b\0bffcb5e1ffeb5bebb2581a59329c4040b43e5b2
+ˆ
+Xmsvc-gateway/src/main/java/com/stiv/springcloud/msvc/gateway/MsvcGatewayApplication.java,c\2\c23809d73c3c62581ac38981f8675f254ff7d059
+G
+msvc-gateway/Dockerfile,7\2\729b9d5fe748d3e8772bfe7c3fe003d6cc49b32f
+<
+gateway.yaml,2\6\26e2c6634a8391d07db0d6ee32c38ebe0d95d04b
