@@ -1,9 +1,13 @@
 
-T
-java:S16117"8Remove the parentheses around the "exceptions" parameter(Œ´þq8ˆ·×…Á1
-Y
-java:S1611>"<Remove the parentheses around the "resourceServer" parameter(õìÌš8·×…Á1
-T
-java:S1611I"7Remove the parentheses around the "authorize" parameter(–²ÇÁ8·×…Á1
 _
-java:S1874U"BRemove this use of "withDefaultPasswordEncoder"; it is deprecated.(‡‚ë±8–·×…Á1
+java:S6813/"BRemove this field injection and use constructor injection instead.(êæÄÞ8‘­‚‘Á1
+~
+java:S33050"aInject this field value directly into "registeredClientRepository", the only method that uses it.(«ª“ø8’­‚‘Á1
+T
+java:S1611<"8Remove the parentheses around the "exceptions" parameter(Œ´þq8–­‚‘Á1
+Y
+java:S1611C"<Remove the parentheses around the "resourceServer" parameter(õìÌš8˜­‚‘Á1
+T
+java:S1611N"7Remove the parentheses around the "authorize" parameter(–²ÇÁ8™­‚‘Á1
+_
+java:S1874Z"BRemove this use of "withDefaultPasswordEncoder"; it is deprecated.(‡‚ë±8š­‚‘Á1

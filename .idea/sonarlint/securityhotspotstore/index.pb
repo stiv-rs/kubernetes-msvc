@@ -93,3 +93,7 @@ H
 msvc-usuarios/.gitignore,9\8\98fcf172d840cc6ced3146b8a6bb2d73090a39ea
 v
 Fmsvc-usuarios/src/main/java/com/stiv/msvc/usuarios/SecurityConfig.java,7\e\7e1ac914268d12f354df866244865129606bbc90
+D
+msvc-auth/Dockerfile,e\9\e9b33681eefd07601c21f0090804848e194bb84b
+9
+	auth.yaml,e\9\e98c00a751046c9394f41899e300ceabd326fc10
