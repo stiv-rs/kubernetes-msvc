@@ -1,7 +1,15 @@
 
+n
+java:S1192"LDefine a constant instead of duplicating this literal "SCOPE_write" 4 times.(õ¥›¿úÿÿÿÿ8×ÌûÁ1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "/{id}" 3 times.(õ¥›¿úÿÿÿÿ8ØÌûÁ1
 [
-java:S1874"9Remove this use of "authorizeRequests"; it is deprecated.(ïğ¢Óûÿÿÿÿ8’‚ÀÁ1
+java:S1874"9Remove this use of "authorizeRequests"; it is deprecated.(àœàÖùÿÿÿÿ8èÌûÁ1
 e
-java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(èúŞ«8“‚ÀÁ1
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(èúŞ«8éÌûÁ1
 j
-java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(Åúßµûÿÿÿÿ8“‚ÀÁ1
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(Åúßµûÿÿÿÿ8éÌûÁ1
+j
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ÑèÜøÿÿÿÿ8êÌûÁ1
+j
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ÑèÜøÿÿÿÿ8êÌûÁ1
