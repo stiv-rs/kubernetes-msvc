@@ -91,3 +91,5 @@ z
 Jmsvc-auth/src/main/java/com/stiv/springcloud/msvc/auth/SecurityConfig.java,1\a\1ac3c7471bc3db81b7d3b7fb2ecb6e738ee9ea18
 H
 msvc-usuarios/.gitignore,9\8\98fcf172d840cc6ced3146b8a6bb2d73090a39ea
+v
+Fmsvc-usuarios/src/main/java/com/stiv/msvc/usuarios/SecurityConfig.java,7\e\7e1ac914268d12f354df866244865129606bbc90

@@ -1,22 +1,22 @@
 
 _
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8€Ëª‹Á1
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ƒİÃ‹Á1
 _
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ëª‹Á1
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ƒİÃ‹Á1
 _
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ëª‹Á1
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ƒİÃ‹Á1
 H
-java:S1452$"&Remove usage of generic wildcard type.(ê€¼¨øÿÿÿÿ8‹Ëª‹Á1
-X	java:S125)"<This block of commented-out lines of code should be removed.(øä¾ä8Ëª‹Á1
+java:S1452$"&Remove usage of generic wildcard type.(ê€¼¨øÿÿÿÿ8†İÃ‹Á1
+X	java:S125)"<This block of commented-out lines of code should be removed.(øä¾ä8‡İÃ‹Á1
 C
-java:S1452."&Remove usage of generic wildcard type.(íÜëá8Ëª‹Á1
+java:S1452."&Remove usage of generic wildcard type.(íÜëá8ˆİÃ‹Á1
 H
-java:S14527"&Remove usage of generic wildcard type.(‘êƒüÿÿÿÿ8’Ëª‹Á1
+java:S14527"&Remove usage of generic wildcard type.(‘êƒüÿÿÿÿ8‰İÃ‹Á1
 B
-java:S1452E"&Remove usage of generic wildcard type.(ÊíF8•Ëª‹Á1
+java:S1452E"&Remove usage of generic wildcard type.(ÊíF8ŠİÃ‹Á1
 H
-java:S1452^"&Remove usage of generic wildcard type.(”øÈ»şÿÿÿÿ8Ëª‹Á1
+java:S1452^"&Remove usage of generic wildcard type.(”øÈ»şÿÿÿÿ8ŒİÃ‹Á1
 H
-java:S1452h"&Remove usage of generic wildcard type.(§àİ›øÿÿÿÿ8 Ëª‹Á1
+java:S1452h"&Remove usage of generic wildcard type.(§àİ›øÿÿÿÿ8ŒİÃ‹Á1
 I
-java:S1602n",Remove useless curly braces around statement(Óÿé¬8¤Ëª‹Á1
+java:S1602s",Remove useless curly braces around statement(Óÿé¬8İÃ‹Á1
