@@ -89,3 +89,5 @@ A
 Omsvc-auth/src/main/java/com/stiv/springcloud/msvc/auth/MsvcAuthApplication.java,b\5\b50c37c83fbe1d375f1e7d343d0cf26fa0b8a959
 z
 Jmsvc-auth/src/main/java/com/stiv/springcloud/msvc/auth/SecurityConfig.java,1\a\1ac3c7471bc3db81b7d3b7fb2ecb6e738ee9ea18
+H
+msvc-usuarios/.gitignore,9\8\98fcf172d840cc6ced3146b8a6bb2d73090a39ea
